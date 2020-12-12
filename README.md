@@ -58,3 +58,7 @@
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/mikhaelhrm
 [linkedin]: https://www.linkedin.com/in/mikhaelhermanus/
+[webdevplaylist]:  https://mikhaelhermanus.github.io/Profile/
+[jsplaylist]:  https://mikhaelhermanus.github.io/Profile/
+[cssplaylist]:  https://mikhaelhermanus.github.io/Profile/
+[reactplaylist]:  https://mikhaelhermanus.github.io/Profile/
