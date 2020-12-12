@@ -1,6 +1,6 @@
 ### Hi there, I'm Mikhael Hermanus - aka [Mike][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mikhaelhermanus.github.io/Profile/)
+[![Website](https://mikhaelhermanus.github.io/Profile/)](https://mikhaelhermanus.github.io/Profile/)
 
 ## I'm a Start Up Enthusiast, Developer, and Whistleblower!!
 
