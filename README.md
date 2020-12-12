@@ -1,9 +1,8 @@
 ### Hi there, I'm Mikhael Hermanus - aka [Mike][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mikhaelhermanus.github.io/Profile/)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Start Up Enthusiast, Developer, and Whistleblower!!
 
 - 🔭 I just have a plan to build my own apps to release on playstore!
 - 🌱 I’m currently learning about developing mobile apps because this is my job right now 🤣
@@ -13,12 +12,11 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK?highlight=spotify:track:0u2P5u6lvoDfwTYjAADbn4)
+[<img src="https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK?highlight=spotify:track:0u2P5u6lvoDfwTYjAADbn4" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK?highlight=spotify:track:0u2P5u6lvoDfwTYjAADbn4)
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
