@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK?highlight=spotify:track:0u2P5u6lvoDfwTYjAADbn4" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK?highlight=spotify:track:0u2P5u6lvoDfwTYjAADbn4)
+[<img src="https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK?highlight=spotify:track:0u2P5u6lvoDfwTYjAADbn4" alt="My recently songs to hear" width="350" />](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK?highlight=spotify:track:0u2P5u6lvoDfwTYjAADbn4)
 
 ### Connect with me:
 
