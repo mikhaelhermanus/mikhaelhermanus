@@ -7,7 +7,7 @@
 - 🔭 I just have a plan to build my own apps to release on playstore!
 - 🌱 I’m currently learning about developing mobile apps because this is my job right now 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: I want to start build my own Start Up and find the economic person that have skill and idea of business process from digitalization
+- 🥅 My Goals: Live happy and earn money with my technology knowledge
 - ⚡ Fun fact: I love to playing RPG game and KPOP music
 
 ### Spotify Playing 🎧
